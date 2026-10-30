@@ -1,0 +1,12 @@
+{
+  "name": "datavision-app",
+  "version": "1.0.0",
+  "description": "Aplicacion de prueba DataVision Analytics para CodeDeploy",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
